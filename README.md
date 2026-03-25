@@ -14,7 +14,7 @@
 
 * 🎓 Just completed **Master of Science in Data Science** at the **University of Washington, Seattle** (Mar 2026).
 * 💼 Architected an agentic SQL correction system for my Capstone Project with **Microsoft**.
-* 📊 Previously engineered scalable data pipelines and business intelligence dashboards as a Data Intern at **ASML**.
+* 📊 Previously engineered scalable data pipelines and business intelligence dashboards as a Data Science Intern at **ASML**.
 * 🔭 Actively seeking full-time opportunities as a Data Scientist, AI Engineer, or Machine Learning Engineer.
 * 🎲 **Beyond the code:** When I'm not optimizing algorithms or building data pipelines, you can find me playing Minecraft or sketching! 
 
