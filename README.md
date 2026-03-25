@@ -16,7 +16,7 @@
 * 💼 Architected an agentic SQL correction system for my Capstone Project with **Microsoft**.
 * 📊 Previously engineered scalable data pipelines and business intelligence dashboards as a Data Intern at **ASML**.
 * 🔭 Actively seeking full-time opportunities as a Data Scientist, AI Engineer, or Machine Learning Engineer.
-* 🎲 **Beyond the code:** When I'm not optimizing algorithms or building data pipelines, you can find me playing Minecraft or making my artworks! 
+* 🎲 **Beyond the code:** When I'm not optimizing algorithms or building data pipelines, you can find me playing Minecraft or sketching! 
 
 ---
 
