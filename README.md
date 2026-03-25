@@ -59,7 +59,6 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayravi13&show_icons=true&theme=radium&hide_border=true" alt="Akshay's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayravi13&theme=radium&hide_border=true" alt="Akshay's GitHub Streak" width="48%" />
 </div>
 
